@@ -1,0 +1,29 @@
+@font-face {font-family: "iconfont";
+  src: url('../media/iconfont.eot?t=1610090319076'); /* IE9 */
+  src: url('../media/iconfont.eot?t=1610090319076#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAPAAAsAAAAAB9gAAANzAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDFAqDIIJ3ATYCJAMQCwoABCAFhG0HQxvcBsguoRzbUajMQNsAxWblcoJxwz7M/7dR8PTZUb+6esbrkxUB9suh6C5bOD05nvtfa3Pmr+ukixovmSZB2ursX9F/s0gjFGikDpHYcIMLszRJLYQJBlv1XmCYQqYnC9UeGpPitzcSQpJXwPQNgFsd7/+/d/p/w3tgrWvfcplj8qdOGMYBBbQ3tskKpBOYNozdRNAQT0OAkGo0Qfr0O9+gjAVMEkDmzxEalDMmbEO14CO4FSstchgH3+wx7wEO8c/LV6big8FRwMzBMzcmzD/O+bhANyfDeIohns4BGOtAgSaABZlc6RpLLko1QQm9w/I0A1wsgvk49+OCJAFTCrkJtine/h/PoCAuoDIGoI2cVvg4BxMQ+DiXgIGPCypQgI8x3gc8YDNwW9FVmeaJBpMZxzXSy6Wve5szBaOzsxm/y93CcXl5GlO9fnvznSjad2/L3VFxguqm3HrNupyc4eNEFL3NcXM5m6nvckOv5Snad0okL+9GVPfeplaY+70tdxftuwEjTpw5fb1MfPLm2XPlR8mWW9G8gT2aX9Mv5XrELSCf8qMW/6cX9rnpu3IXzmNVnVVDfjGQkb4Lg96pPXkanenZ0V3ldpzSf1cQfMJQvybzVcxRaVXzpeeo5wX8LLlbMXHixMe7pkKCnovT4o4DWpz4mZ3H9bjKzBnfKUXHYt3igy97UKd/ZWL46xChdv8q/YkBIFGv6QDOWldl0tPG/+47POs0dJrS6vKfWACKqzUYKAcTLcPK8DHQWfynxB0brC8FZmtdGRYFHkuLe04YIIRRSAC+TEqn0JTtnADBz4gNMHhUBcWnDm7pTcAhog24+HSHkMb0Xx+RxVJyiA2ARuyQQEjnERhSeQ5KOh9wSy8Bh3J8B5d0UQgZKVk7RtSTOWHvpaQxmTh1Dc6ZFoUWsnJVVF9IpL4m01LOfCR5d6LYslmLfHZHIckp5ixbKabLl1s4c2kUYD/pPPL9CBcvjVwyeDh7Ocez5s1nVr1oOG1RAFV6IyE0GMIEmco7yBwMIkIs2p6pFt5/gRCk+GjIBlKP9xFCcsfpHmlJM1p0wHeqsBPpVi5ZxguCKcthLJCZSCICkH6Sg/BhKgJZXD3MhTBghswekIiZ0VxpNrOrari8JnjDHUAI2NuKERUrDnb5jDcuLZ5ieJqg8gUWxymTBAAA') format('woff2'),
+  url('../media/iconfont.woff?t=1610090319076') format('woff'),
+  url('../media/iconfont.ttf?t=1610090319076') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('../media/iconfont.svg?t=1610090319076#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-text:before {
+  content: "\e769";
+}
+
+.icon-package:before {
+  content: "\e76a";
+}
+
+.icon-computer:before {
+  content: "\e76d";
+}
+
